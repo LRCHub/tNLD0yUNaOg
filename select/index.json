@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hare Hare",
+  "base_artist": "TWICE",
+  "createdAt": "2026-01-11T07:21:59.915837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hare Hare",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Hare_Hare_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai [ハレ晴レユカイ]",
+      "artist": "Aya Hirano",
+      "has_synced": true,
+      "path": "select/02_Hare_Hare_Yukai_[ハレ晴レユカイ]_Aya_Hirano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai",
+      "artist": "Shiroku",
+      "has_synced": false,
+      "path": "select/03_Hare_Hare_Yukai_Shiroku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hare Hare (Inst.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_Hare_Hare_(Inst.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Haré Haré",
+      "artist": "J Alvarez",
+      "has_synced": false,
+      "path": "select/05_Haré_Haré_J_Alvarez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Haré, Haré",
+      "artist": "J Álvarez",
+      "has_synced": true,
+      "path": "select/06_Haré,_Haré_J_Álvarez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hare Rama Hare Rama Rama Rama Hare Hare",
+      "artist": "Jagjit Singh",
+      "has_synced": true,
+      "path": "select/07_Hare_Rama_Hare_Rama_Rama_Rama_Hare_Hare_Jagjit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hare Hare Rama",
+      "artist": "Suraj Jagan",
+      "has_synced": true,
+      "path": "select/08_Hare_Hare_Rama_Suraj_Jagan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hare Hare Rama",
+      "artist": "Chakri, Suraj Jagan",
+      "has_synced": true,
+      "path": "select/09_Hare_Hare_Rama_Chakri,_Suraj_Jagan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Radha Ramanam Hare Hare",
+      "artist": "Indresh Upadhyay",
+      "has_synced": false,
+      "path": "select/10_Radha_Ramanam_Hare_Hare_Indresh_Upadhyay.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Haré haré",
+      "artist": "J Álvarez",
+      "has_synced": true,
+      "path": "select/11_Haré_haré_J_Álvarez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hare Hare",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/12_Hare_Hare_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hare Hare Rama",
+      "artist": "Zubeen Garg",
+      "has_synced": false,
+      "path": "select/13_Hare_Hare_Rama_Zubeen_Garg.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai",
+      "artist": "長門有希 (C.V. 茅原実里)",
+      "has_synced": false,
+      "path": "select/14_Hare_Hare_Yukai_長門有希_(C.V._茅原実里).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai (karaoke version)",
+      "artist": "長門有希 (C.V. 茅原実里)",
+      "has_synced": false,
+      "path": "select/15_Hare_Hare_Yukai_(karaoke_version)_長門有希_(C.V._茅原実里).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai ~Tsuruya-san Version~",
+      "artist": "鶴屋さん (松岡由貴)",
+      "has_synced": false,
+      "path": "select/16_Hare_Hare_Yukai_~Tsuruya-san_Version~_鶴屋さん_(松岡由貴).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hare Hare",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Hare_Hare_TWICE.txt"
+    }
+  ]
+}
